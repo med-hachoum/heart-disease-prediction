@@ -1,10 +1,5 @@
-توقع أمراض القلب باستخدام تقنيات تنقيب البيانات و "تعلم الآلة "
  heart disease prediction using data mining and ML
  
-
- 
-
-معلومات وصفية عن مصدر البيانات الذي سنستخدمه في المشروع :
  
 
 Framingham Heart study dataset
@@ -52,16 +47,4 @@ Risk factors from the first physical examination of the patient.
 
 - TenYearCHD: 10 year risk of coronary heart disease CHD .
 
-معلومات عن بيئة العمل الخاصة بالمشروع : 
-تم استخدام : 
-
-- توزيعة أناكوندا Anaconda الاصدار 5.0.1.
-
-- لغة البرمجة بايثون الاصدار الثالث (3.6).
-
-- بيئة عمل Jupyter Notebook الاصدار الخامس .
-
-* توزيعة أناكوندا تضم كلاً من مترجم بايثون وبيئة Jupyter بالاضافة الى المكتبات التي تم استعمالها بالمشروع ، مما يعني أن تثبيت أناكوندا كافي ، 
-
-رابط التحميل
 
